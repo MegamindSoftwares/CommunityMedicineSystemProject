@@ -11,5 +11,9 @@ namespace CommunityMedicineSystem.BLL
     public class DistrictManager
     {
         private DistrictGateway aDistrictGateway = new DistrictGateway();
+        public List<District> GetAll()
+        {
+            return aDistrictGateway.GetDistricts();
+        }
     }
 }

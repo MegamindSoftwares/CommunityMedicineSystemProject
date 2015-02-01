@@ -7,3 +7,12 @@ E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicine
 E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.csprojResolveAssemblyReference.cache
 E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.dll
 E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.pdb
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.dll
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.pdb
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.dll
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.csprojResolveAssemblyReference.cache
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.dll
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.pdb
