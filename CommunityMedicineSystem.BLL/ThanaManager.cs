@@ -11,5 +11,9 @@ namespace CommunityMedicineSystem.BLL
     public class ThanaManager
     {
         private ThanaGateway aThanaGateway = new ThanaGateway();
+        public List<Thana> GetThanasByDistrictId(int id)
+        {
+            return aThanaGateway.GetThanas(id);
+        }
     }
 }

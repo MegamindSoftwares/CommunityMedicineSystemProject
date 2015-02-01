@@ -5,3 +5,10 @@ E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicine
 E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.csprojResolveAssemblyReference.cache
 E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.dll
 E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.pdb
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAL.dll
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.dll
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.pdb
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.csprojResolveAssemblyReference.cache

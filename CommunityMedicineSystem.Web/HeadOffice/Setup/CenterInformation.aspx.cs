@@ -12,7 +12,12 @@ namespace CommunityMedicineSystem.Web.HeadOffice.Setup
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (!IsPostBack)
+            {
+                nameLabel.Text = Request.QueryString["name"];
+                codeLabel.Text = Request.QueryString["code"];
+                passwordLabel.Text = Request.QueryString["password"];
+            }
         }
     }
 }
