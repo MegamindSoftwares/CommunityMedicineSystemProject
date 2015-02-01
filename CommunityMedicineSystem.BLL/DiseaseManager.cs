@@ -10,6 +10,17 @@ namespace CommunityMedicineSystem.BLL
 {
     public class DiseaseManager
     {
-       private DiseaseGateway aDiseaseGateway=new DiseaseGateway();       
+       private DiseaseGateway aDiseaseGateway=new DiseaseGateway();  
+	 public string Save(Disease aDisease)
+       {
+           Disease disease = aDiseaseGateway.Find(aDisease.Name);
+           if (disease == null)
+           {
+               aDiseaseGateway.Save(aDisease);
+               return "Disease saved.";
+           }
+           return "Duplicate Name.";
+       }
+     
     }
 }

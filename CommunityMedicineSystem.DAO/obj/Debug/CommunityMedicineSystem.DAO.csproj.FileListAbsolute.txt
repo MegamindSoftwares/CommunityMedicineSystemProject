@@ -6,3 +6,4 @@ E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAO\
 E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.pdb
 E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.dll
 E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.pdb
+E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.csprojResolveAssemblyReference.cache
