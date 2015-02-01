@@ -11,5 +11,14 @@ namespace CommunityMedicineSystem.BLL
     public class MedicineManager
     {
         private MedicineGateway aMedicineGateway=new MedicineGateway();
+        public string SaveMedicines(Medicine aMedicine)
+        {
+            if (aMedicineGateway.Find(aMedicine.Name) == null)
+            {
+                aMedicineGateway.Save(aMedicine);
+                return "Saved";
+            }
+            return "Medicine Name must be Unique";
+        }
     }
 }

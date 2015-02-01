@@ -16,6 +16,10 @@ namespace CommunityMedicineSystem.BLL
         {
             aCenterGateway.Save(aCenter);
         }
+        public Center Find(string code, string password)
+        {
+            return aCenterGateway.Find(code, password);
+        }
         public Center Find(Center aCenter)
         {
             return aCenterGateway.Find(aCenter);
