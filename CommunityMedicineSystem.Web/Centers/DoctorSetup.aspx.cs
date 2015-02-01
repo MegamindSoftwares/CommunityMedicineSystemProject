@@ -11,7 +11,8 @@ namespace CommunityMedicineSystem.Web.Centers
 {
     public partial class DoctorSetup : System.Web.UI.Page
     {
-        
+        DoctorManager aDoctorManager=new DoctorManager();
+
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
@@ -23,6 +24,13 @@ namespace CommunityMedicineSystem.Web.Centers
 
         protected void saveButton_Click(object sender, EventArgs e)
         {
+            Doctor aDoctor = new Doctor();
+            aDoctor.Name = nameTextBox.Text;
+            aDoctor.Degree = degreeTextBox.Text;
+            aDoctor.Specialization = specializationTextBox.Text;
+            aDoctor.CenterId = Convert.ToInt32(Session["centerId"]);
+            string msg = aDoctorManager.Save(aDoctor);
+            messageLabel.Text = msg;
         }
     }
 }

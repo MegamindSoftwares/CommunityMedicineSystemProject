@@ -12,3 +12,10 @@ E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\
 E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.dll
 E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.pdb
 E:\FTFL\BCC\Project1\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.csprojResolveAssemblyReference.cache
+E:\project\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.csprojResolveAssemblyReference.cache
+E:\project\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.dll
+E:\project\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\obj\Debug\CommunityMedicineSystem.DAL.pdb
+E:\project\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAL.dll
+E:\project\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+E:\project\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\project\CommunityMedicineSystemProject\CommunityMedicineSystem.DAL\bin\Debug\CommunityMedicineSystem.DAO.pdb

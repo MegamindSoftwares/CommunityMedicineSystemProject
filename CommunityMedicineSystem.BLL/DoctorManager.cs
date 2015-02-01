@@ -10,6 +10,12 @@ namespace CommunityMedicineSystem.BLL
 {
     public class DoctorManager
     {
-        private DoctorGateway aDoctorGateway=new DoctorGateway();
+         private DoctorGateway aDoctorGateway=new DoctorGateway();
+        public string Save(Doctor aDoctor)
+        {
+            aDoctorGateway.Save(aDoctor);
+            return "Saved";
+        }
+
     }
 }
