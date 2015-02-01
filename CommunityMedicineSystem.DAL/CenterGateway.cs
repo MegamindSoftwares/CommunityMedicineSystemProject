@@ -22,6 +22,30 @@ namespace CommunityMedicineSystem.DAL
             DbSqlConnection.Close();
 
         }
+    public Center Find(string code, string password)
+    {
+        SqlQuery = "SELECT cen.id,cen.district_id,cen.name,cen.thana_id FROM tbl_center_login log JOIN tbl_centers cen ON log.center_id=cen.id WHERE log.code = '" + code + "' AND log.password= '" + password + "'";
+        DbSqlConnection = new SqlConnection(ConnectionString);
+        DbSqlConnection.Open();
+        DbSqlCommand = new SqlCommand(SqlQuery, DbSqlConnection);
+        DbSqlDataReader = DbSqlCommand.ExecuteReader();
+        if (DbSqlDataReader.HasRows)
+        {
+            Center aCenter = new Center();
+            while (DbSqlDataReader.Read())
+            {
+                aCenter.Id = Convert.ToInt32(DbSqlDataReader["id"]);
+                aCenter.Name = DbSqlDataReader["name"].ToString();
+                aCenter.DistrictId = Convert.ToInt32(DbSqlDataReader["district_id"]);
+                aCenter.ThanaId = Convert.ToInt32(DbSqlDataReader["thana_id"]);
+            }
+            DbSqlConnection.Close();
+            return aCenter;
+        }
+        DbSqlConnection.Close();
+        return null;
+
+    }
 	public Center Find(Center aCenter)
         {
             string query = "SELECT * FROM tbl_centers WHERE name='" + aCenter.Name + "' AND district_id='" + aCenter.DistrictId + "' AND thana_id='" + aCenter.ThanaId + "'";
